@@ -9,8 +9,6 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="jacksonville017" %}
-
-
 ## About the Collection
 
 This is a collection of film photographs taken in Jacksonville, Florida. This collection provides information on:
