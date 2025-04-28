@@ -19,6 +19,8 @@ This is a collection of film photographs taken in Jacksonville, Florida. This co
 - the architecture in Jacksonville, Florida
 - the film and cameras used to create the photos
 
+{% include feature/image.html objectid="jacksonville007;jacksonville018;jacksonville036" %}
+
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
