@@ -1,8 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date,Date Built,
+architectural_style,Architectural Style,
+architect,Architect,
+date_of_photo,Date Photo was Taken,
+type_of_camera,Camera,
+type_of_film,Film,
+film_size,Film Size,
 description,Description,
+processing_lab,Processing Lab,
+scan_date,Scan Date,
+scan_software,Scan Software,
+related_webpage,Related Webpage for More Information,
 subject,Subjects,true
 location,Location
 latitude,Latitude
